@@ -1,4 +1,14 @@
 eulerproject-douby
 ==================
 
-a factory to store the answer of euler-project,  and the point is MULTIPLE LANGUAGE!!!
+h2 Eulerproject 花样作死大赛！！！
+
+本repository用来store欧拉计划的解题方案——你可以用各种方式。
+
+解题方案的保存路径 {e$}/{e$}.*  其中的$代表题号， *代表你所使用的语言拓展名
+
+~~比如第一题你是用C#写的，那么就保存在e1/e1.Lydia.cs下面。~~
+
+比如你的第二题是用Haskell写的，那么就保存在e2/e2.hs就好。
+
+致力于利用各种语言来作死，作大死！！！
