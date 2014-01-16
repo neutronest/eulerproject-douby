@@ -5,7 +5,7 @@ eulerproject-douby
 
 本repository用来store欧拉计划的解题方案——你可以用各种方式。
 
-解题方案的保存路径 {e$}/{e$}.*  其中的$代表题号， *代表你所使用的语言拓展名
+解题方案的保存路径 { problem_name } / { problem_name}.{ language }  其中的problem_name代表题号(e1,e2,e3...)， language是你所用的语言，保存格式为e1.*, *代表你code源文件的后缀
 
 ~~比如第一题你是用C#写的，那么就保存在e1/e1.Lydia.cs下面。~~
 
