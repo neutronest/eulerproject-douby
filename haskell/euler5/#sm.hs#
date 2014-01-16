@@ -1,0 +1,7 @@
+
+
+let sp = take 1 [ x | x <- [1..],  mod x a == 0
+                where a ]
+
+main::IO()
+main = print $ sp
