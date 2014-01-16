@@ -1,7 +1,7 @@
 eulerproject-douby
 ==================
 
-h2 Eulerproject 花样作死大赛！！！
+###Eulerproject 花样作死大赛！！！
 
 本repository用来store欧拉计划的解题方案——你可以用各种方式。
 
