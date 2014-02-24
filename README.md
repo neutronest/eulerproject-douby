@@ -13,4 +13,4 @@ eulerproject-douby
 
 同理，e2/e2.java啦， e3/e3.php啦， 也是可以受欢迎的啦
 
-致力于利用各种语言来作死，作大死！！！
+致力于利用各种语言来作(gao)死(ge)，作(da)大(xin)死(wen)！！！
