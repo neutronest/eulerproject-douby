@@ -1,0 +1,12 @@
+(defun fib (x)
+  (if (>= x 2)
+    (+ (fib (- x 1)) (fib (- x 2)))
+    1))
+
+(defun e2 (x)
+  (do* ((i 1 (1+ i))
+        (fib (fib i) (fib i))
+        (sum 0))
+    ((> fib x) (return sum))
+    (if (evenp fib)
+      (setq sum (+ sum fib)))))
